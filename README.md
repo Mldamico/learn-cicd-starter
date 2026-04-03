@@ -1,4 +1,4 @@
-![alt text goes here](https://github.com/Mldamico/learn-cicd-starter/actions/workflows/ci/badge.svg)
+![Ci](https://github.com/Mldamico/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
